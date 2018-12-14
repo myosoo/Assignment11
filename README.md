@@ -1,2 +1,2 @@
 # Assignment11
-Image Denoising
+This is a Data-Mining class project at Chung-Ang University
